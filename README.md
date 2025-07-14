@@ -1,7 +1,7 @@
 🐍 Desafio 100 Dias de Python – Destaques no Replit
 Este repositório foi criado para registrar os dias de destaque do meu progresso no desafio 100 Dias de Python.
 
-🎯 Para tornar o desafio ainda mais autêntico e estimulante, me desafiei a executar cada código apenas uma única vez no console da plataforma Replit. 
+🎯 Para tornar o desafio ainda mais autêntico e estimulante, me desafiei a executar cada código em apenas três tentativas no console da plataforma Replit. 
 Isso significa que cada dia é uma tentativa real, com erros, acertos e aprendizado genuíno.
 
 📌 Além disso, para fins de comparação e estudo, pretendo incluir:
